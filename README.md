@@ -14,7 +14,7 @@ A comprehensive **TypeScript-based** system that combines **Board-O-Mate's power
 
 > **See MCP Board-O-Mate in Action!**
 
-[![MCP Board-O-Mate Demo](https://img.youtube.com/vi/RRN7AF7QIew/maxresdefault.jpg)](https://youtu.be/RRN7AF7QIew)
+[MCP Board-O-Mate Demo](https://youtu.be/eL6oeUCSU4U)
 
 *Watch how AI agents create and manipulate diagrams in real-time on the live canvas*
 
