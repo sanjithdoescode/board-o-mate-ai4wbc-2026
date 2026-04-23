@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp_board_o_mate": {
+      "command": "npx",
+      "args": ["-y", "board-o-mate-mcp"]
+    }
+  }
+}
